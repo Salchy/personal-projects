@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1735911939 source:c:\users\lcorrea\documents\projects\personal-projects\main.cpp
+	<iostream>
+
+1735912005 source:c:\users\lcorrea\documents\projects\personal-projects\persona.cpp
+	"persona.h"
+
+1735914094 c:\users\lcorrea\documents\projects\personal-projects\persona.h
+	<string>
+
